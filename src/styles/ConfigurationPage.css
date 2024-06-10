@@ -1,0 +1,27 @@
+.configuration-container {
+  padding: 20px;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.tab-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.tab-content h2 {
+  margin-bottom: 10px;
+}
+
+.tab-content input,
+.tab-content select {
+  margin-bottom: 20px;
+}
+
+.tab-content button {
+  align-self: flex-start;
+}
